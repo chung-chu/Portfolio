@@ -158,7 +158,7 @@ export default function App() {
             <div className="relative z-10 p-4 glass rounded-[40px] rotate-3 hover:rotate-0 transition-all duration-700">
               <div className="aspect-[4/5] bg-slate-800 rounded-[30px] overflow-hidden relative">
                 <img 
-                  src="/me.jpg" 
+                  src="/chungchu.jpg" 
                   alt="Phạm Thanh Chung Portrait" 
                   className="w-full h-full object-cover grayscale-0 hover:scale-105 transition-all duration-700"
                 />
